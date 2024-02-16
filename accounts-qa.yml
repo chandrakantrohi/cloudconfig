@@ -3,7 +3,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to git EazyBank accounts related QA APIs refresh using rabit mq without refresh >>>>>>>>"
+  message: "Welcome to git EazyBank accounts related QA APIs refresh using rabit mq without refresh >>>>>****>>>"
   contactDetails:
     name: "Smitha Ray - QA Lead"
     email: "{cipher}6ad1af9c30aa0ded86f4aa85993f4bdcda1681980435cc0597094ef075b5b9dd9f22a6e41f0e613687480cf1efd70dff"
